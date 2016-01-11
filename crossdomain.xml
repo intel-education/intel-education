@@ -3,4 +3,5 @@
   <allow-access-from domain="scratchx.org"/>
   <allow-access-from domain="scratch.mit.edu"/>
   <allow-access-from domain="llk.github.io"/>
+  <allow-access-from domain="intel-realsense-extension-for-scratch.github.io" />
 </cross-domain-policy>
